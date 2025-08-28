@@ -14,23 +14,9 @@ export function CreditsComp() {
         />
       </Link>
 
-      <Link href={BrandLinks.supabase}>
-        <Image
-          src="/brands/supabase.svg"
-          alt="supabase-brand"
-          width={120}
-          height={120}
-        />
-      </Link>
+     
 
-      <Link href={BrandLinks.nextjs}>
-        <Image
-          src="/brands/nextjs.svg"
-          alt="nextjs-brand"
-          width={120}
-          height={120}
-        />
-      </Link>
+     
 
       <Link href={BrandLinks.vercel}>
         <Image
